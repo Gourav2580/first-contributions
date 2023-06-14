@@ -47,7 +47,7 @@ ahihi tao la duy ne
 - [Shreeji Saraogi](https://github.com/shreesaraogi)
 - [Clément Maisons] (https://github.com/ClementMaisons)
 - [Antonio Zurita] (https://github.com/AntonioJZP86)
-- [Abhishek Manral] (https://github.com/AbhishekManra)
+- [Ayush kumar](https://github.com/Gourav2580)
 - [Sadhika](https://github.com/sadhika77)
 - [Deep Patel] (https://github.com/Deepp805)
 - [Deepak Kumar] (https://github.com/develop-build/)
